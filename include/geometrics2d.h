@@ -1,0 +1,4 @@
+#ifdef GEOMETRICS2D_H
+#define GEOMETRICS2D_H  
+
+#endif // GEOMETRICS2D_H
